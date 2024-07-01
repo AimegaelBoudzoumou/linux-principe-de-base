@@ -14,7 +14,7 @@ Si ce système reprenait certaines idées de Multics, K. Thompson y ajouta des n
 
 1984 : lancement d'un mouvement pour le développement de logiciels libres de droits, par Richard M. Stallman. 
 
-Ceci, pour s'opposer à la commercialisatin des logiciels et plus particulièrement à l'indisponibilité du code source. 
+Ceci, pour s'opposer à la commercialisation des logiciels et plus particulièrement à l'indisponibilité du code source. 
 
 ### 2.1. FSF
 
