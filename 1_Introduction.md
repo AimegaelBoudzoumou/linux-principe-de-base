@@ -2,18 +2,18 @@
 
 ## 1. Historique de Unix
 
-## GNU
-### FSF
-### CopyLeft et GPL
+## 2. GNU
+### 2.1. FSF
+### 2.2. CopyLeft et GPL
 
-## Linux
-### Caractéristiques
-### Distributions
+## 3. Linux
+### 3.1. Caractéristiques
+### 3.2. Distributions
 
-## Quelles distributions choisir
-### Les distributions "grand public"
-### Les distributions "mobiles"
-### Les distributions "professionnelles"
-### Les distributions "professionnelles"
+## 4. Quelles distributions choisir
+### 4.1. Les distributions "grand public"
+### 4.2. Les distributions "mobiles"
+### 4.3. Les distributions "professionnelles"
+### 4.4. Les distributions "professionnelles"
 
-## Exercices
+## 5. Exercices
