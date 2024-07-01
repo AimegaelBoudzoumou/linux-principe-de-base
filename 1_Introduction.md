@@ -2,6 +2,11 @@
 
 ## 1. Historique de Unix
 
+1969 : Ken Thompson, développeur au sein du laboratoire Bell (qui font partie de AT&T) inventa le système Unix.
+K. Thompson avait d'abord travaillé sur le système Multics. 
+Quand Bell Labs se retira du projet Multics, il se mit à développer son propre système, sur une machine DEP PDP-7.
+Si ce système reprenait certaines idées de Multics, K. Thompson y ajouta des nouveauté : Unix était né.
+
 ## 2. GNU
 ### 2.1. FSF
 ### 2.2. CopyLeft et GPL
