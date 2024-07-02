@@ -1,5 +1,7 @@
 # Chapitre 1 : Introduction
 
+[1. Historique de Unix](#historique)
+
 #### 1. Historique de Unix <a name="monancre"></a>
 #### 2. GNU
 #### 2.1. FSF
@@ -14,7 +16,7 @@
 #### 4.4. Les distributions "professionnelles"
 #### 5. Exercices
 
-[## 1. Historique de Unix](#monancre)
+## 1. Historique de Unix <a name="monancre"></a>
 
 1969 : Ken Thompson, développeur au sein du laboratoire Bell (qui font partie de AT&T) inventa le système Unix.
 
