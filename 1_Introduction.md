@@ -1,11 +1,9 @@
 # Chapitre 1 : Introduction
 
-[1. Historique de Unix](#historique)
-
-#### 1. Historique de Unix <a name="monancre"></a>
+#### 1. Historique de Unix
 #### 2. GNU
-#### 2.1. FSF
-#### 2.2. CopyLeft et GPL
+####   * 2.1. FSF
+####   * 2.2. CopyLeft et GPL
 #### 3. Linux
 #### 3.1. Caractéristiques
 #### 3.2. Distributions
