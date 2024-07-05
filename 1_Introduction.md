@@ -8,6 +8,8 @@
 4. Quelles distributions choisir : grand public, mobiles, professionnelles, spécialisées
 5. Exercices
 
+----------------------------------------------------------------------------------------------------------------------
+
 ## 1. Historique de Unix
 
 1969 : Ken Thompson, développeur au sein du laboratoire Bell (qui font partie de AT&T) inventa le système Unix.
