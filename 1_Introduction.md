@@ -3,9 +3,9 @@
 ### Contenu
 
 1. Historique de Unix
-2. GNU : FSF. CopyLeft et GPL
-3. Linux : Caractéristiques. Distributions
-4. Quelles distributions choisir : "grand public", "mobiles", "professionnelles", "spécialisées"
+2. GNU : FSF, CopyLeft, GPL
+3. Linux : caractéristiques, distributions
+4. Quelles distributions choisir : grand public, mobiles, professionnelles, spécialisées
 5. Exercices
 
 ## 1. Historique de Unix
