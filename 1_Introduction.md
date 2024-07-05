@@ -4,9 +4,9 @@ Contenu du chapitre 1
 
 1. Historique de Unix
 2. GNU
- 2.1. FSF
- 2.2. CopyLeft et GPL
-## 3. Linux
+  2.1. FSF
+  2.2. CopyLeft et GPL
+3. Linux
 ##### 3.1. Caractéristiques
 ##### 3.2. Distributions
 ## 4. Quelles distributions choisir
