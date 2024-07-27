@@ -40,6 +40,7 @@ Les fondements de logiciels libres sont regroupés sous quatre libertés:
 - La liberté d'étuder le fonctionnement du programme.
 - La liberté de redistribuer des copies, gratuitement ou non.
 - La liberté d'améliorer le programme et de publier vos améliorations, pour en faire profiter toutes la communauté.
+
 A cela, s'ajoute la GPL (General Public License) créée par Richard Stallman ajoute une obligation de rester sous licence libre; cette notion est appelée "copyleft" (gauche d'auteur), par opposition à "copyright" (droit d'auteur), et induit que tout logiciel utilisant une partie de code régi par la GPL est automatiquement placé sous les termes de la GPL.
 
 ## 3. Linux
