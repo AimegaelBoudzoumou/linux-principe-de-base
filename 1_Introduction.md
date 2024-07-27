@@ -34,6 +34,14 @@ Il ne s'oppose pas au fait de vendre des logiciels, du moment que le code source
 
 ### 2.2. CopyLeft et GPL
 
+Pour mener à bien son projet et permettre la diffusion des logiciels libres, Richaard Stallman a mis en place une licence spécifique. celle-ci évite l'appropriation du code source et le dépôt d'un copyright par toute personne s'étant contenté de modifier quelques lignes d'un logiciel libre.
+Les fondements de logiciels libres sont regroupés sous quatre libertés:
+- La liberté d'éxécuter le programme pour tout usage.
+- La liberté d'étuder le fonctionnement du programme.
+- La liberté de redistribuer des copies, gratuitement ou non.
+- La liberté d'améliorer le programme et de publier vos améliorations, pour en faire profiter toutes la communauté.
+A cela, s'ajoute la GPL (General Public License) créée par Richard Stallman ajoute une obligation de rester sous licence libre; cette notion est appelée "copyleft" (gauche d'auteur), par opposition à "copyright" (droit d'auteur), et induit que tout logiciel utilisant une partie de code régi par la GPL est automatiquement placé sous les termes de la GPL.
+
 ## 3. Linux
 ### 3.1. Caractéristiques
 ### 3.2. Distributions
