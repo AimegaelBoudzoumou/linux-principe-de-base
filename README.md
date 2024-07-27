@@ -1,7 +1,7 @@
 # Linux - Principe de base de l'utilisation du système
 Ce document est un résumé de ma lecture du livre ___Linux - Principe de base de l'utilisation du système___ de **Nicolas Pons**.  
 Pour plus d'informations, consultez la page du livre chez 
-[Editions ENI](https://www.editions-eni.fr/livre/linux-principes-de-base-de-l-utilisation-du-systeme-8e-edition-9782409037764)
+[Editions ENI](https://www.editions-eni.fr/livre/linux-principes-de-base-de-l-utilisation-du-systeme-8e-edition-9782409037764) - ISBN : 978-2-409-03776-4
 
 Chaque chapître du livre est représenté par un fichier.
 
