@@ -51,6 +51,15 @@ Linux ("Linus' Unix") est donc né en 1991 grâce à un étudiant de l'universit
 *Le terme de "Hacker" ne doit pas être confondu  avec celui de "cracker" qui désigne un individu cherchant à s'introduire de façon illégale dans un système informatique pour en utiliser les ressources ou en altérer les données. Le mot hacker représente ici les premiers programmeurs sur les systèmes Unix devenus certainement de véritables gourous dans leur domaine et non le pirate informatique mal intentionné.*
 
 ### 3.1. Caractéristiques
+Les principales caractéristiques de Linux sont les suivantes:
+- Multitâche
+- Multiutilisateur
+- Multiplateforme
+- Système de fichiers
+- Gestion de la mémoire
+- Réseau
+- Conformité avec de nombreux standards comme POSIX
+  
 ### 3.2. Distributions
 
 ## 4. Quelles distributions choisir
