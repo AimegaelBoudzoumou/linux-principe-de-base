@@ -44,6 +44,10 @@ Les fondements de logiciels libres sont regroupés sous quatre libertés:
 A cela, s'ajoute la GPL (General Public License) créée par Richard Stallman ajoute une obligation de rester sous licence libre; cette notion est appelée "copyleft" (gauche d'auteur), par opposition à "copyright" (droit d'auteur), et induit que tout logiciel utilisant une partie de code régi par la GPL est automatiquement placé sous les termes de la GPL.
 
 ## 3. Linux
+Utilisant le système d'exploitation Minix, développé par Andrew S. Tanenbaum dand le but de montrer à ses étudiants le fonctionnement d'un système de type Unix, lors d'un projet d'étude sur le mode protégé des processeurs Intel 386, Linux Torvalds se mit à développer son propre noyau Unix pour y ajouter de nouvelles fonctionnalités.
+
+Linux ("Linus' Unix") est donc né en 1991 grâce à un étudiant de l'université d'Helsinki. La réussite du nouveau système devra son salut à l'idée de son créateur, L. Torvalds, d'inscrire son projet sous les termes de la licence GPL et de programmer à tous les programmeurs et autres hackers d'internet de l'aider.
+
 ### 3.1. Caractéristiques
 ### 3.2. Distributions
 
