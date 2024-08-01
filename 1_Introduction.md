@@ -48,6 +48,8 @@ Utilisant le système d'exploitation Minix, développé par Andrew S. Tanenbaum 
 
 Linux ("Linus' Unix") est donc né en 1991 grâce à un étudiant de l'université d'Helsinki. La réussite du nouveau système devra son salut à l'idée de son créateur, L. Torvalds, d'inscrire son projet sous les termes de la licence GPL et de programmer à tous les programmeurs et autres hackers d'internet de l'aider.
 
+*Le terme de "Hacker" ne doit pas être confondu  avec celui de "cracker" qui désigne un individu cherchant à s'introduire de façon illégale dans un système informatique pour en utiliser les ressources ou en altérer les données. Le mot hacker représente ici les premiers programmeurs sur les systèmes Unix devenus certainement de véritables gourous dans leur domaine et non le pirate informatique mal intentionné.*
+
 ### 3.1. Caractéristiques
 ### 3.2. Distributions
 
