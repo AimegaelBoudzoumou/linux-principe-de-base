@@ -69,3 +69,8 @@ Les principales caractéristiques de Linux sont les suivantes:
 ### 4.4. Les distributions "professionnelles"
 
 ## 5. Exercices
+
+###  Test
+```shell
+$ command -o -p -t
+```
