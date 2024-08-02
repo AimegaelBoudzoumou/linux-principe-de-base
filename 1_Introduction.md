@@ -61,6 +61,17 @@ Les principales caractéristiques de Linux sont les suivantes:
 - Conformité avec de nombreux standards comme POSIX
   
 ### 3.2. Distributions
+A proprement parlé, Linux n'est pas un système d'exploitation mais seulement son noyau (kernel). Il ne constitue pas à lui seul la totalité du système d'exploitation; pour cela, il doit être accompagné des outils des outils de base communs à tous les Unix.
+
+Ces outils standards étant en grande majorités des logiciels libres, on les retrouve aussi sous Linux, généralement dans un version GNU comprenant nombre d'améliorations par rapport aux originaux. Parmi ces programmes, on distingue le compilateur GNU C/C++, un des meilleurs compilateurs disponibles aujourd'hui.
+
+Il faut aussi évoquer l'ensemble des commandes accessibles directement à partir d'un shell, telles que **grep**, **find**, **awk** ou encore des éditeurs de texte comme **vi**. Pour être précis, le terme GNU/Linux doit être alors utilisé pour désigner ce système et non "Linux" comme trop souvent.
+
+A l'aide d'autres développeurs, Linus Torvalds a ajouté de plus en plus d'outils et d'applications. Au fil du temps, des universités, des compagnies et de simples individus ont commencé à distribuer Linux avec leur propre de paquetage pour accompagner le noyaux Linux. Le concept de distribution Linux est né.
+
+Une distribution GNU/Linux est donc composé du noyau Linux, d'outils de base GNU, d'une suite logicielle praticulière avec une configuration préétablei, et d'outils d'administration propres à la distribution comme l'installateur ou le gestionnaire de paquetage logiciels.
+
+Aujourd'hui, créer et vendre une distribution Linux peut représenter un chiffre d'affaires de plusieurs millions de dollars et il est possible d'acheter les versions "boîte" de grandes compagnies telles que Red Hat ou Suse. Néanmoins, on peut toujours télécharger librement la plupart de ces distributions commerciales ainsi que celles réalisées par des groupes d'individus passionnés.
 
 ## 4. Quelles distributions choisir
 ### 4.1. Les distributions "grand public"
@@ -72,5 +83,9 @@ Les principales caractéristiques de Linux sont les suivantes:
 
 ###  Test
 ```shell
+$ command -o -p -t
+```
+
+```bash
 $ command -o -p -t
 ```
